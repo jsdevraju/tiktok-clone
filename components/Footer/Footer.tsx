@@ -17,7 +17,7 @@ const Footer: NextPage = () => (
     <List items={footerList1} mt={false} />
     <List items={footerList2} mt />
     <List items={footerList3} mt />
-    <p className='text-gray-400 text-sm mt-5'>© 2022 TikTik</p>
+    <p className='text-gray-400 text-sm mt-5'>This build only for education purpose © 2022 <a href="https://jsdevrazu.vercel.app" target="_blank" rel="noreferrer">razuislam<a></p>
   </div>
 );
 
